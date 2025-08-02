@@ -1,0 +1,25 @@
+
+h3{
+    color: #323f4b;
+    font-size: 0px;
+    text-align: center;
+}
+p{
+   color: #7b8794; 
+   text-align: center;
+
+}
+.img{
+    width: 150px;
+    margin-left: 150px;
+}
+.container{
+    /* width: 320px; */
+    border: 2px solid #7b8794;
+    border-radius: 2px;
+    margin-left: 50px;
+    margin-right: 200px;
+     margin-top: 200px;
+    display: flex;
+    flex-wrap:wrap;
+}
